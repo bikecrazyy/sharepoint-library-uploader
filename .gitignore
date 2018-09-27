@@ -3,3 +3,7 @@
 ################################################################################
 
 /bin/Debug
+/bin/Release/Microsoft.SharePoint.Client.dll
+/bin/Release
+/.vs/SharepointLibraryFileUploader/v15/Server/sqlite3
+/obj
